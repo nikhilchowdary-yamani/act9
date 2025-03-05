@@ -1,0 +1,2 @@
+/Users/bharathashapu/Developer/mobile-app-dev/class_activity_9/act9/android/app/.cxx/Debug/2o20542v/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/bharathashapu/Developer/mobile-app-dev/class_activity_9/act9/android/app/.cxx/Debug/2o20542v/arm64-v8a/CMakeFiles/rebuild_cache.dir
